@@ -30,7 +30,7 @@ public class ThisIsMain{
 		
 	}
 	 public static void witchCase() {
-		 
+		 //323232323
     	int n=nhap();
     	switch(n) {
     		case 1: 
